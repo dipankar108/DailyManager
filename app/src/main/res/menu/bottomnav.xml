@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:title="Daily" />
-    <item android:title="Weekly" />
-    <item android:title="Monthly" />
+    <item
+        android:icon="@drawable/ic_daily"
+        android:title="Daily" />
+    <item
+        android:icon="@drawable/ic_week"
+        android:title="Weekly" />
+    <item
+        android:icon="@drawable/ic_month"
+        android:title="Monthly" />
 </menu>
