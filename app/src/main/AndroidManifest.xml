@@ -10,10 +10,12 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.DailyManager">
         <activity
+            android:name=".CreateTask"
+            android:exported="false" />
+        <activity
             android:name=".LogIn"
             android:exported="false"
-            android:theme="@style/Theme.DailyManager.NoActionBar"
-            />
+            android:theme="@style/Theme.DailyManager.NoActionBar" />
         <activity
             android:name=".SplashScreen"
             android:exported="true"
