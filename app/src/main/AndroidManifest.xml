@@ -11,7 +11,9 @@
         android:theme="@style/Theme.DailyManager">
         <activity
             android:name=".LogIn"
-            android:exported="false" />
+            android:exported="false"
+            android:theme="@style/Theme.DailyManager.NoActionBar"
+            />
         <activity
             android:name=".SplashScreen"
             android:exported="true"

@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/drawable/btnstarted.xml" value="0.158" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/activity_log_in.xml" value="0.18229166666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/loginslider.xml" value="0.18229166666666666" />
