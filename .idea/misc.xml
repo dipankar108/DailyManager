@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/drawable/btn_background.xml" value="0.158" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/drawable/btn_border.xml" value="0.158" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/drawable/btnstarted.xml" value="0.158" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/drawable/ic_daily.xml" value="0.158" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/drawable/ic_filter.xml" value="0.158" />
@@ -12,6 +14,7 @@
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/activity_log_in.xml" value="0.18229166666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/activity_main.xml" value="0.14" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/createtask.xml" value="0.18229166666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/filterdialog.xml" value="0.18229166666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/loginslider.xml" value="0.18229166666666666" />
         <entry key="..\:/Users/user/AndroidStudioProjects/DailyManager/app/src/main/res/layout/toolbar.xml" value="0.18229166666666666" />
