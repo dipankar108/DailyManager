@@ -2,11 +2,17 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:icon="@drawable/ic_daily"
-        android:title="Daily" />
+        android:title="All" />
     <item
         android:icon="@drawable/ic_week"
-        android:title="Weekly" />
+        android:title="Running" />
+    <item
+        android:id="@+id/placeholder"
+        android:title="" />
     <item
         android:icon="@drawable/ic_month"
-        android:title="Monthly" />
+        android:title="Status" />
+    <item
+        android:icon="@drawable/ic_month"
+        android:title="Upcoming" />
 </menu>
